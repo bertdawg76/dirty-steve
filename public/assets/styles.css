@@ -1,0 +1,14 @@
+.mainView {
+    background-image: url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsSzo7FYfDJRo50G-ynlvCXTLsyIrDN8xoWDe426Bl791Y6jbGQQ");
+}
+
+ .md-fab {
+     margin-right: 40px;
+     margin-top: 35px;
+     position: relative;
+
+ }
+
+ md-button {
+     padding-top: 30px;
+ }
